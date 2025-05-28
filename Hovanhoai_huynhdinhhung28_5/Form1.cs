@@ -24,8 +24,7 @@ namespace Hovanhoai_huynhdinhhung28_5
 
         private void button1_Click(object sender, EventArgs e)
         {
-            addcontactform form = new addcontactform();
-            form.ShowDialog();
+            
         }
     }
 }
