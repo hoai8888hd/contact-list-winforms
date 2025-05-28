@@ -16,5 +16,10 @@ namespace Hovanhoai_huynhdinhhung28_5
         {
             InitializeComponent();
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
