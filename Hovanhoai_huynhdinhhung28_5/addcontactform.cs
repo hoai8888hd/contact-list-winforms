@@ -10,22 +10,11 @@ using System.Windows.Forms;
 
 namespace Hovanhoai_huynhdinhhung28_5
 {
-    public partial class Form1: Form
+    public partial class addcontactform : Form
     {
-        public Form1()
+        public addcontactform()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            addcontactform form = new addcontactform();
-            form.ShowDialog();
         }
     }
 }
